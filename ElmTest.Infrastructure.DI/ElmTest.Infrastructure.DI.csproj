@@ -1,0 +1,19 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="System.Configuration.ConfigurationManager" Version="6.0.0" />
+    <PackageReference Include="System.Data.SqlClient" Version="4.8.6" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\ElmTest.Infrastructure.Data\ElmTest.Infrastructure.Data.csproj" />
+    <ProjectReference Include="..\ElmTest.Infrastructure.Repositories\ElmTest.Infrastructure.Repositories.csproj" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,17 @@
+C:\Users\dell\Downloads\Compressed\elm-test\New folder\ElmTest.Application.Mapping\bin\Debug\net6.0\ElmTest.Application.Mapping.deps.json
+C:\Users\dell\Downloads\Compressed\elm-test\New folder\ElmTest.Application.Mapping\bin\Debug\net6.0\ElmTest.Application.Mapping.dll
+C:\Users\dell\Downloads\Compressed\elm-test\New folder\ElmTest.Application.Mapping\bin\Debug\net6.0\ElmTest.Application.Mapping.pdb
+C:\Users\dell\Downloads\Compressed\elm-test\New folder\ElmTest.Application.Mapping\bin\Debug\net6.0\ElmTest.Application.Dto.dll
+C:\Users\dell\Downloads\Compressed\elm-test\New folder\ElmTest.Application.Mapping\bin\Debug\net6.0\ElmTest.Domain.Entities.dll
+C:\Users\dell\Downloads\Compressed\elm-test\New folder\ElmTest.Application.Mapping\bin\Debug\net6.0\ElmTest.Application.Dto.pdb
+C:\Users\dell\Downloads\Compressed\elm-test\New folder\ElmTest.Application.Mapping\bin\Debug\net6.0\ElmTest.Domain.Entities.pdb
+C:\Users\dell\Downloads\Compressed\elm-test\New folder\ElmTest.Application.Mapping\obj\Debug\net6.0\ElmTest.Application.Mapping.csproj.AssemblyReference.cache
+C:\Users\dell\Downloads\Compressed\elm-test\New folder\ElmTest.Application.Mapping\obj\Debug\net6.0\ElmTest.Application.Mapping.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dell\Downloads\Compressed\elm-test\New folder\ElmTest.Application.Mapping\obj\Debug\net6.0\ElmTest.Application.Mapping.AssemblyInfoInputs.cache
+C:\Users\dell\Downloads\Compressed\elm-test\New folder\ElmTest.Application.Mapping\obj\Debug\net6.0\ElmTest.Application.Mapping.AssemblyInfo.cs
+C:\Users\dell\Downloads\Compressed\elm-test\New folder\ElmTest.Application.Mapping\obj\Debug\net6.0\ElmTest.Application.Mapping.csproj.CoreCompileInputs.cache
+C:\Users\dell\Downloads\Compressed\elm-test\New folder\ElmTest.Application.Mapping\obj\Debug\net6.0\ElmTest.Application.Mapping.csproj.CopyComplete
+C:\Users\dell\Downloads\Compressed\elm-test\New folder\ElmTest.Application.Mapping\obj\Debug\net6.0\ElmTest.Application.Mapping.dll
+C:\Users\dell\Downloads\Compressed\elm-test\New folder\ElmTest.Application.Mapping\obj\Debug\net6.0\refint\ElmTest.Application.Mapping.dll
+C:\Users\dell\Downloads\Compressed\elm-test\New folder\ElmTest.Application.Mapping\obj\Debug\net6.0\ElmTest.Application.Mapping.pdb
+C:\Users\dell\Downloads\Compressed\elm-test\New folder\ElmTest.Application.Mapping\obj\Debug\net6.0\ref\ElmTest.Application.Mapping.dll

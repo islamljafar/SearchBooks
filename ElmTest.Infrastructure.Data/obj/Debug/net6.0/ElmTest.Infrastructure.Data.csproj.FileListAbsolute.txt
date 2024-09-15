@@ -1,0 +1,17 @@
+C:\Users\dell\Downloads\Compressed\elm-test\New folder\ElmTest.Infrastructure.Data\obj\Debug\net6.0\ElmTest.Infrastructure.Data.csproj.AssemblyReference.cache
+C:\Users\dell\Downloads\Compressed\elm-test\New folder\ElmTest.Infrastructure.Data\obj\Debug\net6.0\ElmTest.Infrastructure.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dell\Downloads\Compressed\elm-test\New folder\ElmTest.Infrastructure.Data\obj\Debug\net6.0\ElmTest.Infrastructure.Data.AssemblyInfoInputs.cache
+C:\Users\dell\Downloads\Compressed\elm-test\New folder\ElmTest.Infrastructure.Data\obj\Debug\net6.0\ElmTest.Infrastructure.Data.AssemblyInfo.cs
+C:\Users\dell\Downloads\Compressed\elm-test\New folder\ElmTest.Infrastructure.Data\obj\Debug\net6.0\ElmTest.Infrastructure.Data.csproj.CoreCompileInputs.cache
+C:\Users\dell\Downloads\Compressed\elm-test\New folder\ElmTest.Infrastructure.Data\bin\Debug\net6.0\ElmTest.Infrastructure.Data.deps.json
+C:\Users\dell\Downloads\Compressed\elm-test\New folder\ElmTest.Infrastructure.Data\bin\Debug\net6.0\ElmTest.Infrastructure.Data.dll
+C:\Users\dell\Downloads\Compressed\elm-test\New folder\ElmTest.Infrastructure.Data\bin\Debug\net6.0\ElmTest.Infrastructure.Data.pdb
+C:\Users\dell\Downloads\Compressed\elm-test\New folder\ElmTest.Infrastructure.Data\bin\Debug\net6.0\ElmTest.Domain.Entities.dll
+C:\Users\dell\Downloads\Compressed\elm-test\New folder\ElmTest.Infrastructure.Data\bin\Debug\net6.0\ElmTest.Domain.Interfaces.dll
+C:\Users\dell\Downloads\Compressed\elm-test\New folder\ElmTest.Infrastructure.Data\bin\Debug\net6.0\ElmTest.Domain.Interfaces.pdb
+C:\Users\dell\Downloads\Compressed\elm-test\New folder\ElmTest.Infrastructure.Data\bin\Debug\net6.0\ElmTest.Domain.Entities.pdb
+C:\Users\dell\Downloads\Compressed\elm-test\New folder\ElmTest.Infrastructure.Data\obj\Debug\net6.0\ElmTest.Infrastructure.Data.csproj.CopyComplete
+C:\Users\dell\Downloads\Compressed\elm-test\New folder\ElmTest.Infrastructure.Data\obj\Debug\net6.0\ElmTest.Infrastructure.Data.dll
+C:\Users\dell\Downloads\Compressed\elm-test\New folder\ElmTest.Infrastructure.Data\obj\Debug\net6.0\refint\ElmTest.Infrastructure.Data.dll
+C:\Users\dell\Downloads\Compressed\elm-test\New folder\ElmTest.Infrastructure.Data\obj\Debug\net6.0\ElmTest.Infrastructure.Data.pdb
+C:\Users\dell\Downloads\Compressed\elm-test\New folder\ElmTest.Infrastructure.Data\obj\Debug\net6.0\ref\ElmTest.Infrastructure.Data.dll

@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "ITkDbw4Hxpti7U55n4kh3Q9kp28+7SeKUd8/WFc5wLPS2jeHJaO3ikcwTBmE5kwB9J+u0BINi5krRm1beBr3sQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\dell\\Downloads\\Compressed\\elm-test\\New folder\\ElmTest.Application.Mapping\\ElmTest.Application.Mapping.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dell\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
+    "C:\\Users\\dell\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\dell\\.nuget\\packages\\microsoft.extensions.options\\6.0.0\\microsoft.extensions.options.6.0.0.nupkg.sha512",
+    "C:\\Users\\dell\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "C:\\Users\\dell\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,11 @@
+C:\Users\dell\Downloads\Compressed\elm-test\New folder\ElmTest.Shared\bin\Debug\net6.0\ElmTest.Shared.deps.json
+C:\Users\dell\Downloads\Compressed\elm-test\New folder\ElmTest.Shared\bin\Debug\net6.0\ElmTest.Shared.dll
+C:\Users\dell\Downloads\Compressed\elm-test\New folder\ElmTest.Shared\bin\Debug\net6.0\ElmTest.Shared.pdb
+C:\Users\dell\Downloads\Compressed\elm-test\New folder\ElmTest.Shared\obj\Debug\net6.0\ElmTest.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dell\Downloads\Compressed\elm-test\New folder\ElmTest.Shared\obj\Debug\net6.0\ElmTest.Shared.AssemblyInfoInputs.cache
+C:\Users\dell\Downloads\Compressed\elm-test\New folder\ElmTest.Shared\obj\Debug\net6.0\ElmTest.Shared.AssemblyInfo.cs
+C:\Users\dell\Downloads\Compressed\elm-test\New folder\ElmTest.Shared\obj\Debug\net6.0\ElmTest.Shared.csproj.CoreCompileInputs.cache
+C:\Users\dell\Downloads\Compressed\elm-test\New folder\ElmTest.Shared\obj\Debug\net6.0\ElmTest.Shared.dll
+C:\Users\dell\Downloads\Compressed\elm-test\New folder\ElmTest.Shared\obj\Debug\net6.0\refint\ElmTest.Shared.dll
+C:\Users\dell\Downloads\Compressed\elm-test\New folder\ElmTest.Shared\obj\Debug\net6.0\ElmTest.Shared.pdb
+C:\Users\dell\Downloads\Compressed\elm-test\New folder\ElmTest.Shared\obj\Debug\net6.0\ref\ElmTest.Shared.dll

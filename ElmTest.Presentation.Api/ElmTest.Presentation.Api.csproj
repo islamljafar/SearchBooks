@@ -1,0 +1,27 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="6.0.32" />
+    <PackageReference Include="Serilog" Version="4.0.1" />
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="6.5.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\ElmTest.Application.Dto\ElmTest.Application.Dto.csproj" />
+    <ProjectReference Include="..\ElmTest.Application.Interfaces\ElmTest.Application.Interfaces.csproj" />
+    <ProjectReference Include="..\ElmTest.Application.Mapping\ElmTest.Application.Mapping.csproj" />
+    <ProjectReference Include="..\ElmTest.Application.Services\ElmTest.Application.Services.csproj" />
+    <ProjectReference Include="..\ElmTest.Infrastructure.Data\ElmTest.Infrastructure.Data.csproj" />
+    <ProjectReference Include="..\ElmTest.Infrastructure.DI\ElmTest.Infrastructure.DI.csproj" />
+    <ProjectReference Include="..\ElmTest.Infrastructure.Repositories\ElmTest.Infrastructure.Repositories.csproj" />
+    <ProjectReference Include="..\ElmTest.Shared\ElmTest.Shared.csproj" />
+    <ProjectReference Include="..\Entities\ElmTest.Domain.Entities.csproj" />
+  </ItemGroup>
+
+</Project>

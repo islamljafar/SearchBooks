@@ -1,0 +1,17 @@
+C:\Users\dell\Downloads\Compressed\elm-test\New folder\ElmTest.Application.Interfaces\bin\Debug\net6.0\ElmTest.Application.Interfaces.deps.json
+C:\Users\dell\Downloads\Compressed\elm-test\New folder\ElmTest.Application.Interfaces\bin\Debug\net6.0\ElmTest.Application.Interfaces.dll
+C:\Users\dell\Downloads\Compressed\elm-test\New folder\ElmTest.Application.Interfaces\bin\Debug\net6.0\ElmTest.Application.Interfaces.pdb
+C:\Users\dell\Downloads\Compressed\elm-test\New folder\ElmTest.Application.Interfaces\bin\Debug\net6.0\ElmTest.Domain.Entities.dll
+C:\Users\dell\Downloads\Compressed\elm-test\New folder\ElmTest.Application.Interfaces\bin\Debug\net6.0\ElmTest.Domain.Interfaces.dll
+C:\Users\dell\Downloads\Compressed\elm-test\New folder\ElmTest.Application.Interfaces\bin\Debug\net6.0\ElmTest.Domain.Interfaces.pdb
+C:\Users\dell\Downloads\Compressed\elm-test\New folder\ElmTest.Application.Interfaces\bin\Debug\net6.0\ElmTest.Domain.Entities.pdb
+C:\Users\dell\Downloads\Compressed\elm-test\New folder\ElmTest.Application.Interfaces\obj\Debug\net6.0\ElmTest.Application.Interfaces.csproj.AssemblyReference.cache
+C:\Users\dell\Downloads\Compressed\elm-test\New folder\ElmTest.Application.Interfaces\obj\Debug\net6.0\ElmTest.Application.Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dell\Downloads\Compressed\elm-test\New folder\ElmTest.Application.Interfaces\obj\Debug\net6.0\ElmTest.Application.Interfaces.AssemblyInfoInputs.cache
+C:\Users\dell\Downloads\Compressed\elm-test\New folder\ElmTest.Application.Interfaces\obj\Debug\net6.0\ElmTest.Application.Interfaces.AssemblyInfo.cs
+C:\Users\dell\Downloads\Compressed\elm-test\New folder\ElmTest.Application.Interfaces\obj\Debug\net6.0\ElmTest.Application.Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\dell\Downloads\Compressed\elm-test\New folder\ElmTest.Application.Interfaces\obj\Debug\net6.0\ElmTest.Application.Interfaces.csproj.CopyComplete
+C:\Users\dell\Downloads\Compressed\elm-test\New folder\ElmTest.Application.Interfaces\obj\Debug\net6.0\ElmTest.Application.Interfaces.dll
+C:\Users\dell\Downloads\Compressed\elm-test\New folder\ElmTest.Application.Interfaces\obj\Debug\net6.0\refint\ElmTest.Application.Interfaces.dll
+C:\Users\dell\Downloads\Compressed\elm-test\New folder\ElmTest.Application.Interfaces\obj\Debug\net6.0\ElmTest.Application.Interfaces.pdb
+C:\Users\dell\Downloads\Compressed\elm-test\New folder\ElmTest.Application.Interfaces\obj\Debug\net6.0\ref\ElmTest.Application.Interfaces.dll

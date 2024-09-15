@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\ElmTest.Presentation.Api.props" />
+</Project>
